@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2023-09-05 11:23:44 by Eclipse SUMO GUI Version 1.18.0
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="D:\project\python\ucd\RLlib_test\sumo-rl-VSL12.1.7\nets\ramp_VSL\map.net.xml"/>
+        <route-files value="D:\project\python\ucd\RLlib_test\sumo-rl-VSL12.1.7\nets\ramp_VSL\fcd.rou.xml"/>
+        <additional-files value="D:\project\python\ucd\RLlib_test\sumo-rl-VSL12.1.7\nets\ramp_VSL\e1.add.xml"/>
+    </input>
+
+    <output>
+        <emission-output value="D:\project\python\ucd\RLlib_test\sumo-rl-VSL12.1.7\nets\ramp_VSL\output/CO2emission.xml"/>
+        <summary-output value="D:\project\python\ucd\RLlib_test\sumo-rl-VSL12.1.7\nets\ramp_VSL\output/summary.xml"/>
+        <tripinfo-output value="D:\project\python\ucd\RLlib_test\sumo-rl-VSL12.1.7\nets\ramp_VSL\output/tripinfo.xml"/>
+    </output>
+
+    <time>
+        <begin value="3000"/>
+        <end value="5400"/>
+    </time>
+
+    <gui_only>
+        <gui-settings-file value="D:\project\python\ucd\RLlib_test\sumo-rl-VSL12.1.7\nets\ramp_VSL\gui.settings.xml"/>
+        <quit-on-end value="false"/>
+    </gui_only>
+
+</configuration>
+-->
+
+<tripinfos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/tripinfo_file.xsd">
+</tripinfos>

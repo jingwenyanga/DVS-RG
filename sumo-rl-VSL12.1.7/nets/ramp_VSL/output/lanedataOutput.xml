@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2023-08-31 14:33:43 by Eclipse SUMO sumo Version 1.10.0
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="D:\project\python\ucd\RLlib_test\sumo-rl-VSL12.1.7\nets\ramp_VSL\map.net.xml"/>
+        <route-files value="D:\project\python\ucd\RLlib_test\sumo-rl-VSL12.1.7\nets\ramp_VSL\fcd.rou.xml"/>
+        <additional-files value="D:\project\python\ucd\RLlib_test\sumo-rl-VSL12.1.7\nets\ramp_VSL\e1.add.xml"/>
+    </input>
+
+    <time>
+        <begin value=" 3000"/>
+    </time>
+
+    <processing>
+        <time-to-teleport value="-1"/>
+        <waiting-time-memory value="1000"/>
+        <max-depart-delay value="-1"/>
+    </processing>
+
+    <traci_server>
+        <remote-port value="63986"/>
+    </traci_server>
+
+</configuration>
+-->
+
+<meandata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/meandata_file.xsd">
+</meandata>

@@ -1,0 +1,21 @@
+<configuration>
+   <input>
+       <net-file value="map.net.xml"/>
+       <route-files value="fcd.rou.xml"/>
+       <additional-files value="e1.add.xml"/>
+       <gui-settings-file value="gui.settings.xml"/>
+       <quit-on-end value="false"/>
+   </input>
+
+   <output>
+        <summary-output value="output/summary.xml"/>
+        <tripinfo-output value="output/tripinfo.xml"/>
+        <emission-output value="output/CO2emission.xml"/>
+  </output>
+
+  <time>
+    <begin value="3000"/>
+    <end value="5400"/>
+  </time>
+
+</configuration>

@@ -1,0 +1,25 @@
+
+
+<additional>
+    <inductionLoop id="em70" lane="m7_0" pos="10" period="30" file="output/1.xml"/>
+    <inductionLoop id="em71" lane="m7_1" pos="10" period="30" file="output/1.xml"/>
+    <inductionLoop id="em72" lane="m7_2" pos="10" period="30" file="output/1.xml"/>
+    <inductionLoop id="em73" lane="m7_3" pos="10" period="30" file="output/1.xml"/>
+    <inductionLoop id="em74" lane="m7_4" pos="10" period="30" file="output/1.xml"/>
+    <inductionLoop id="em75" lane="m7_5" pos="10" period="30" file="output/1.xml"/>
+
+    <inductionLoop id="em40" lane="m4_0" pos="5" period="30" file="output/1.xml"/>
+    <inductionLoop id="em41" lane="m4_1" pos="5" period="30" file="output/1.xml"/>
+    <inductionLoop id="em42" lane="m4_2" pos="5" period="30" file="output/1.xml"/>
+    <inductionLoop id="em43" lane="m4_3" pos="5" period="30" file="output/1.xml"/>
+    <inductionLoop id="em44" lane="m4_4" pos="5" period="30" file="output/1.xml"/>
+
+    <inductionLoop id="erin20" lane="rin2_0" pos="-5" period="30" file="output/1.xml"/>
+
+    <inductionLoop id="erout10" lane="rout1_0" pos="-5" period="30" file="output/1.xml"/>
+    <inductionLoop id="em80" lane="m8_0" pos="-5" period="30" file="output/1.xml"/>
+    <inductionLoop id="em81" lane="m8_1" pos="-5" period="30" file="output/1.xml"/>
+    <inductionLoop id="em82" lane="m8_2" pos="-5" period="30" file="output/1.xml"/>
+    <inductionLoop id="em83" lane="m8_3" pos="-5" period="30" file="output/1.xml"/>
+    <inductionLoop id="em84" lane="m8_4" pos="-5" period="30" file="output/1.xml"/>
+</additional>
